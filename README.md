@@ -3,7 +3,7 @@ Tool, for fade-in music in iTunes.
 <br/>
 _\*my first expirience in AppleScripting\*_
 
-![image](https://dl.dropboxusercontent.com/u/7624831/_soft/FadeOnPlay.ico)
+![image](https://dl.dropboxusercontent.com/u/7624831/_soft/FadeOnPlay.png)
 
 ###[[ Download app ]](https://dl.dropboxusercontent.com/u/7624831/_soft/FadeOnPlay.zip)
 
