@@ -5,7 +5,7 @@ _\*my first expirience in AppleScripting\*_
 
 ![image](https://dl.dropboxusercontent.com/u/7624831/soft/FadeOnPlay.png)
 
-###[[ Download app ]](https://dl.dropboxusercontent.com/u/7624831/_soft/FadeOnPlay.zip)
+###[[ Download app ]](https://dl.dropboxusercontent.com/u/7624831/soft/FadeOnPlay.zip)
 
 
 ###Good sides
